@@ -1,0 +1,11 @@
+{
+  "sandbox": {
+    "network": {
+      "allowedDomains": [
+        "vercel.com",
+        "*.vercel.com",
+        "api.vercel.com"
+      ]
+    }
+  }
+}
